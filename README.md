@@ -1,6 +1,10 @@
 # SystemIPFinder
+<p align="center">
 <img src="https://img.shields.io/github/downloads/reshmaharidhas/SystemIPFinder/total?style=flat-square&labelColor=black&color=purple">
-
+  <img src="https://img.shields.io/github/languages/top/reshmaharidhas/SystemIPFinder"/>
+  <img src="https://img.shields.io/github/languages/code-size/reshmaharidhas/SystemIPFinder"/>
+  <img src="https://img.shields.io/github/v/release/reshmaharidhas/SystemIPFinder"/>
+</p>
 Java desktop application to find IP address of your system and to check Internet connectivity status
 
 Built using Java-AWT (Abstract Window Toolkit)
